@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Kandla Gifari Akbar 
+2. Email: kandlagifari@gmail.com
+3. Sistem Operasi yang digunakan: Windows dan Linux
+4. Akun Github: kandlagifari
+5. Akun Telegram: ap_southeast_3
+6. Role Pekerjaan (BE/FE/DEVOPS/MAHASISWA) : Cloud Engineer
+7. Umur: 24
+8. Pernah menggunakan Go? : Pernah
+9. Bahasa Pemrograman yg pernah dipelajari: Go, Python
+10. Pernah membuat REST API? : Pernah
